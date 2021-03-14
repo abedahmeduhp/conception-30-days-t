@@ -1,1 +1,1 @@
-![alt text](./*.png)
+![alt text](./1.png)
